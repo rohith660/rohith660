@@ -4,7 +4,7 @@
 ---
 
 ### 🌟 About Me:
-- 🎓 **Computer Science Engineer** | Saveetha School of Engineering (CGPA 8.20)  
+- 🎓 **Computer Science Engineer** | Saveetha School of Engineering  
 - 💻 Skilled in **Python, Java, SQL, C++, and AI/ML**  
 - ☁️ **AWS Cloud Practitioner, Oracle DB, Backend Development & UI/UX**  
 - 🌍 Freelance experience with international clients (Ireland)  
