@@ -6,7 +6,7 @@
 ### 🌟 About Me:
 - 🎓 **Computer Science Engineer** | Saveetha School of Engineering (CGPA 8.20)  
 - 💻 Skilled in **Python, Java, SQL, C++, and AI/ML**  
-- ☁️ Passionate about **Cloud, Backend Development & UI/UX**  
+- ☁️ **AWS Cloud Practitioner, Oracle DB, Backend Development & UI/UX**  
 - 🌍 Freelance experience with international clients (Ireland)  
 - 🎯 Constant learner aiming to blend creativity, logic & innovation  
 
@@ -35,9 +35,19 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohith660&theme=github-dark-blue&hide_border=false" />
 </p>
 
+### 💻 Most Used Languages
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith660&layout=compact&theme=github_dark" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith660&langs_count=8&layout=compact&theme=github_dark&hide_border=false&custom_title=Most%20Used%20Languages" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-40%25-orange?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-30%25-red?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-20%25-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-5%25-purple?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prolog-5%25-maroon?style=for-the-badge" />
+</p>
+
 
 ---
 
